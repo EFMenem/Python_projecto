@@ -1,0 +1,10 @@
+#Textos
+*.txt
+
+#comprimidos
+*.zip
+
+#csv
+*.csv
+
+.DS_Store
